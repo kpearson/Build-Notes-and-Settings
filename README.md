@@ -154,3 +154,82 @@ By the way, if you get a Guard error complaining about the absence of a spec/rou
 
 
 ## Spork
+Installing spork
+
+The first step is to add the spork gem dependency to the Gemfile<br>
+To look like:
+<pre><code>source 'https://rubygems.org'
+
+gem 'rails', '3.2.13'
+.
+.
+.
+group :development, :test do
+  .
+  .
+  .
+  gem 'guard-spork', '1.2.0'
+  gem 'spork', '0.9.2'
+end
+.
+.
+.
+</code></pre>
+
+Next install spork by running:
+<pre><code>$ bundle install</code></pre>
+
+Next, bootstrap the Spork configuration:
+<pre><code>$ bundle exec spork --bootstrap</code></pre>
+
+Next edit the RSpec configuration file, located in <code>spec/spec_helper.rb</code><br>
+Bootstraping adds code to the bottem of the <code>spec_helper.rb</code>file which needs to be moved inside the prefork block
+
+<pre><code>require 'rubygems'
+require 'spork'
+
+Spork.prefork do
+  # Loading more in this block will cause your tests to run faster. However, 
+  # if you change any configuration or code from libraries loaded here, you'll
+  # need to restart spork for it take effect.
+  # This file is copied to spec/ when you run 'rails generate rspec:install'
+  ENV["RAILS_ENV"] ||= 'test'
+  require File.expand_path("../../config/environment", __FILE__)
+  require 'rspec/rails'
+  require 'rspec/autorun'
+
+  # Requires supporting ruby files with custom matchers and macros, etc,
+  # in spec/support/ and its subdirectories.
+  Dir[Rails.root.join("spec/support/**/*.rb")].each {|f| require f}
+
+  RSpec.configure do |config|
+    # == Mock Framework
+    #
+    # If you prefer to use mocha, flexmock or RR, uncomment the appropriate line:
+    #
+    # config.mock_with :mocha
+    # config.mock_with :flexmock
+    # config.mock_with :rr
+    config.mock_with :rspec
+
+    # Remove this line if you're not using ActiveRecord or ActiveRecord fixtures
+    config.fixture_path = "#{::Rails.root}/spec/fixtures"
+
+    # If you're not using ActiveRecord, or you'd prefer not to run each of your
+    # examples within a transaction, remove the following line or assign false
+    # instead of true.
+    config.use_transactional_fixtures = true
+
+    # If true, the base class of anonymous controllers will be inferred
+    # automatically. This will be the default behavior in future versions of
+    # rspec-rails.
+    config.infer_base_class_for_anonymous_controllers = false
+  end
+end
+
+Spork.each_run do
+  # This code will be run each time you run your specs.
+
+end</code></pre>
+Run spork with:
+<pre><code>$ bundle exec spork</code></pre>
