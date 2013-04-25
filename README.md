@@ -6,6 +6,9 @@
 
 ## Sublime Text 2
 
+###sublime text 2 ruby tests
+https://github.com/maltize/sublime-text-2-ruby-tests
+
 
 
 
