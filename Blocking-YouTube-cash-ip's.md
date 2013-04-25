@@ -2,7 +2,7 @@
 
 Doing this will cause the stream to take 1-2 seconds to start because of the IP rejection handling, but then you are greeted with a silky smooth, ultra fast experience.
 
-##To reject certain IP addresses and get back to blazingly fast Youtube streaming (and Twitch.tv). 
+###To reject certain IP addresses and get back to blazingly fast Youtube streaming (and Twitch.tv). 
 
 Open up your terminal and run these commands (you will be prompted for the admin password):
 
