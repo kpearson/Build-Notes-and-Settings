@@ -1,4 +1,5 @@
 #Reject certain IP addresses asosiated with youtube cashing.
+http://mitchribar.com/2013/02/time-warner-cable-sucks-for-youtube-twitchtv/
 
 Doing this will cause the stream to take 1-2 seconds to start because of the IP rejection handling, but then you are greeted with a silky smooth, ultra fast experience.
 
