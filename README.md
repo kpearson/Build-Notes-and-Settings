@@ -443,4 +443,4 @@ end
 </code></pre>
 
 Run spork with:
-<pre><code>$ bundle exec spork</code></pre>
+<pre><code>$ spork</code></pre>
