@@ -3,6 +3,8 @@
 ##Rails
 
 ###RVM
+[rvm]
+[rvm notes]
 
 ###Sublime Text 2
 
@@ -28,6 +30,8 @@
 ###Spork
 
 ##Unix
+[Unix]
+[Unix notes]
 
 
 
@@ -36,3 +40,11 @@
 [Sublimetext]: http://www.sublimetext.com/
 [Bundler]: http://gembundler.com/
 [Bundler notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#bundler
+[rvm]: https://rvm.io/
+[rvm notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#rvm
+[unix]: http://www.unix.org/
+[unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
+[Unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
+[Spork]: https://github.com/sporkrb/spork-rails
+[Spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#spork
+
