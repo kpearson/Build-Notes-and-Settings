@@ -2,7 +2,7 @@
 
 ##Rails
 
-<center>Set-up</center>
+>###<em>Set-up</em>
 
 ###RVM
 [rvm]
@@ -24,6 +24,8 @@
 
 [Bundler notes]
 
+
+>###<em>Testing</em>
 ###rspec
 [rspec]
 
@@ -31,10 +33,13 @@
 
 [rspec notes]
 
+
+
 ###Guard
 [Guard]
 
 [Guard notes]
+
 
 
 ###Spork
@@ -42,10 +47,14 @@
 
 [Spork notes]
 
+
+
 ####guard with spork
 [Guard with spork]
 
 [Guard with spork notes]
+
+
 
 ###Growl
 [Growl]
@@ -55,10 +64,13 @@
 [Growl notes]
 
 
+
 ##Unix
 [Unix]
 
 [Unix notes]
+
+
 
 ##Oddes and ends
 
