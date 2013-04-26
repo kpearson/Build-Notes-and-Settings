@@ -40,6 +40,12 @@
 
 [Spork notes]
 
+####guard with spork
+[Guard with spork]
+
+[Guard with spork notes]
+
+
 ##Unix
 [Unix]
 
@@ -65,6 +71,8 @@
 [rspec github]: https://github.com/rspec/rspec-rails
 [Spork]: https://github.com/sporkrb/spork-rails
 [Spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#spork
+[Guard with spork]: 
+[Guard with spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#guard-with-spork
 
 [unix]: http://www.unix.org/
 [unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
