@@ -1,5 +1,5 @@
 #Kit's Rails Development Environment
-###Configuration, settings and other useful bit and pices.
+###Configuration, settings and other useful bits and pieces.
 
 
 ## RVM
