@@ -60,6 +60,9 @@ doc/
 If you install any new executable re-run <code>bundle install</code> command:
 <pre><code>bundle install --binstubs=./bundler_stubs</code></pre>
 
+
+####<big>TESTING</big>
+
 ##rspec
 To install rspec<br>
 First add <code>rspec_rails</code> to the <code>Gemfile</code> in the <code>group :development, test</code>
@@ -446,3 +449,6 @@ Run spork with:
 <pre><code>$ spork</code></pre>
 
 ###Guard with spork
+
+
+###Growl
