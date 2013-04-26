@@ -45,6 +45,13 @@
 
 [Guard with spork notes]
 
+###Growl
+[Growl]
+
+[Growl-notify gem]
+
+[Growl notes]
+
 
 ##Unix
 [Unix]
@@ -73,6 +80,9 @@
 [Spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#spork
 [Guard with spork]: https://github.com/guard/guard-spork
 [Guard with spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#guard-with-spork
+[Growl]: https://rubygems.org/gems/growl
+[Growl-notify gem]: https://github.com/scottdavis/growl_notify
+[Growl notes]: https://github.com/kpearson/Build-Notes-and-Settings/blob/master/Rails_DevEnvironment.md#growl
 
 [unix]: http://www.unix.org/
 [unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
