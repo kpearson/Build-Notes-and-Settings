@@ -45,6 +45,10 @@
 
 [Unix notes]
 
+##Oddes and ends
+
+[Block Time Warner youtube cash server]
+
 
 
 [Ruby Tests notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#ruby-tests
@@ -59,9 +63,11 @@
 [rspec]: https://www.relishapp.com/rspec/rspec-rails/docs
 [rspec notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#rspec
 [rspec github]: https://github.com/rspec/rspec-rails
-[unix]: http://www.unix.org/
-[unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
-[Unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
 [Spork]: https://github.com/sporkrb/spork-rails
 [Spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#spork
 
+[unix]: http://www.unix.org/
+[unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
+
+
+[Block Time Warner youtube cash]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Blocking-YouTube-cash-ip%27s.md
