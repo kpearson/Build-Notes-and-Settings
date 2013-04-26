@@ -70,4 +70,4 @@
 [unix notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#unix
 
 
-[Block Time Warner youtube cash]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Blocking-YouTube-cash-ip%27s.md
+[Block Time Warner youtube cash server]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Blocking-YouTube-cash-ip%27s.md
