@@ -2,7 +2,7 @@
 
 ##Rails
 
->###<em>Set-up</em>
+>>>>>>>>###<em>Set-up</em>
 
 ###RVM
 [rvm]
@@ -25,7 +25,7 @@
 [Bundler notes]
 
 
->###<em>Testing</em>
+>>>>>>>>###<em>Testing</em>
 
 ###rspec
 [rspec]
