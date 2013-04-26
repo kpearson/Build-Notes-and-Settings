@@ -2,6 +2,8 @@
 
 ##Rails
 
+<center>Set-up</center>
+
 ###RVM
 [rvm]
 
