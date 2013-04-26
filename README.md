@@ -71,7 +71,7 @@
 [rspec github]: https://github.com/rspec/rspec-rails
 [Spork]: https://github.com/sporkrb/spork-rails
 [Spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#spork
-[Guard with spork]: 
+[Guard with spork]: https://github.com/guard/guard-spork
 [Guard with spork notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#guard-with-spork
 
 [unix]: http://www.unix.org/
