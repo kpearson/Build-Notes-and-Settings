@@ -6,6 +6,8 @@
 
 ###Sublime Text 2
 
+###Bundler
+
 ###rspec
 
 ###Guard
