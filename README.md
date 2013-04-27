@@ -78,8 +78,8 @@
 [Block Time Warner youtube cash server]
 
 
-
-[Ruby Tests notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#ruby-tests
+https://github.com/kpearson/Build-Notes-and-Settings/blob/master/Rails_DevEnvironment.md#rvm
+[Ruby Tests notes]: https://github.com/kpearson/Build-Notes-and-Settings/blob/master/Rails_DevEnvironment.md#ruby-tests
 [Sublime Text 2 notes]: https://github.com/kpearson/Rails-Config-Settings/blob/master/Rails_DevEnvironment.md#sublime-text-2
 [Sublime text 2]: http://www.sublimetext.com/
 [Bundler]: http://gembundler.com/
