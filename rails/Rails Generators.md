@@ -68,9 +68,9 @@ end
 ##Models
 Capitolize and Singular model name.
 
-```ruby
+~~~ruby
 bin/rails generate model Article title:string text:text
-```
+~~~
 
 Now with an assosiation. Notice the __`article:references`__.
 
